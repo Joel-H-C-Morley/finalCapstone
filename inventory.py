@@ -5,7 +5,7 @@ from tabulate import tabulate
 # ========The beginning of the class==========
 class Shoe:
     """
-    The shoe class. Within is initialisation, get shoe cost, get stock quantity of shoe,
+    This is the shoe class. Within is initialisation, get shoe cost, get stock quantity of shoe,
     set stock quantity of shoe and output a string of th shoe details
     """
 
